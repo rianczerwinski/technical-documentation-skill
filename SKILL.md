@@ -118,3 +118,7 @@ Report:
 - Any unresolved conflict, unverified environment, inaccessible source, or lifecycle risk.
 
 Do not call the work complete because prose exists. Completion means the intended reader can use it under the stated conditions and the important claims remain traceable to authority.
+
+## Additional resource
+
+- [templates/changelog.md](templates/changelog.md) — seed for a project-owned notable-change history; adapt it to the repository's established categories and reader consequences.
