@@ -1,6 +1,7 @@
 ---
 name: technical-documentation
 description: Designs, writes, revises, and verifies technical documentation across repositories, products, wikis, APIs, architecture, operations, change communication, and source-local comments or annotations. Use when the user asks to document a system or feature; create or improve tutorials, how-to guides, reference, explanations, ADRs, runbooks, troubleshooting, knowledge-base articles, changelogs, migration guides, docstrings, or code comments; establish a documentation system; audit documentation quality or freshness; or decide what kind of documentation belongs where. Routes repository topology and purely navigational README/MANIFEST/AGENTS work to repo-refiner.
+license: MIT
 ---
 
 # Technical Documentation
